@@ -1,6 +1,6 @@
-# AI-Based Credit Card Fraud Detection System
+# Credit Card Fraud Detection System
 
-**INSE 6450 – Fall 2026 | [Your Full Name] | Student ID: [Your ID] | [Program], Concordia University**
+**INSE 6450 – Fall 2026 | **
 GitHub: https://github.com/Zarchi1992/credit-card-fraud-detection-project
 
 ---
@@ -28,15 +28,6 @@ The main challenge is **extreme class imbalance**: fraud makes up well under 1% 
 - Initial preprocessing and feature engineering
 - **Notebook:** `notebooks/01_data_exploration.ipynb`
 - **Pipeline:** `src/run_pipeline.py`
-
-### Milestone 2 — Model Selection, Training & Evaluation
-
-- Model design and justification
-- Baseline vs. final model comparison (ablation study)
-- Imbalance handling (class weights / resampling)
-- Full metrics: precision, recall, F1, PR-AUC, AUROC
-- Efficiency metrics: latency, throughput, model size
-- **Notebook:** `notebooks/02_model_training.ipynb` *(planned)*
 
 ---
 
