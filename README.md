@@ -1,6 +1,8 @@
 # Credit Card Fraud Detection System
 
-**INSE 6450 – Fall 2026 | **
+**INSE 6450 – Fall 2026 **
+
+
 GitHub: [(https://github.com/Zarchi1992/INSE-6450-Fall-Sem-credit-card-fraud-detection)]
 
 ---
@@ -27,7 +29,6 @@ The main challenge is **extreme class imbalance**: fraud makes up well under 1% 
 - Missing value, duplicate and class imbalance analysis
 - Initial preprocessing and feature engineering
 - **Notebook:** `notebooks/01_data_exploration.ipynb`
-- **Pipeline:** `src/run_pipeline.py`
 
 ---
 
@@ -42,9 +43,6 @@ The main challenge is **extreme class imbalance**: fraud makes up well under 1% 
 | Train file | `fraudTrain.csv` (≈ 1.3M transactions, Jan 2019 – Jun 2020) |
 | Test file | `fraudTest.csv` (≈ 556K transactions, Jun – Dec 2020) |
 | Target | `is_fraud` |
-| License | [see Kaggle page — add exact license] |
-
-The raw data is **not** committed to this repository. See [`data/README.md`](data/README.md) for download instructions.
 
 ### Key fields
 
@@ -69,7 +67,6 @@ credit-card-fraud-detection-project/
 ├── notebooks/
 │   └── 01_data_exploration.ipynb
 ├── src/
-│   ├── __init__.py
 │   ├── preprocessing.py         # dates, duplicates, missing values
 │  
 └── outputs/
