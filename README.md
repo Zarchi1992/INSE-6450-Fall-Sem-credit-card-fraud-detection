@@ -66,9 +66,6 @@ credit-card-fraud-detection-project/
 │   └── processed/               
 ├── notebooks/
 │   └── 01_data_exploration.ipynb
-├── src/
-│   ├── preprocessing.py         
-│  
 └── outputs/
     └── figures/
         ├── class_distribution.png
