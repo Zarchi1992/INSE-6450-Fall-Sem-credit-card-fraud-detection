@@ -30,6 +30,15 @@ The main challenge is **extreme class imbalance**: fraud makes up well under 1% 
 - Initial preprocessing and feature engineering
 - **Notebook:** `notebooks/01_data_exploration.ipynb`
 
+### Milestone 2 — Model Selection, Training & Evaluation
+
+- Autoencoder-based anomaly detection model design and justification
+- Ablation and comparison study
+- Fraud detection performance evaluation
+- Efficiency metrics
+- **Notebook:** `notebooks/02_model_training.ipynb
+
+
 ---
 
 ## Dataset
